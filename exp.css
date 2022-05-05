@@ -1,0 +1,36 @@
+body{
+  margin: 0%;
+}
+header{
+  background-color: rgb(154, 187, 91);
+  color: white;
+  width: 100%;
+  padding: 1px;
+  padding-left: 50px;
+}
+main{
+  padding: 30px;
+  padding-left: 50px;
+}
+form{
+  font-size: large;
+}
+.btn{
+  background-color: yellowgreen;
+  padding:12px;
+  text-align: center;
+  width: 90px;
+  border-color: yellowgreen;
+  border-radius: 15%;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+.btn:hover{
+  background-color: rgb(120, 161, 38);
+  padding:12px;
+  text-align: center;
+  width: 90px;
+  border-color: rgb(120, 160, 39);
+  border-radius: 15%;
+}
